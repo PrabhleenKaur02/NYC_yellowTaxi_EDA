@@ -1,0 +1,12 @@
+taxi_records/
+trip_zones/
+*.parquet
+*.shp
+*.shp.xml
+*.dbf
+*.shx
+*.sbn
+*.sbx
+*.prj
+*.cpg
+
